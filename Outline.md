@@ -1,7 +1,7 @@
 ### A. WWW
-Why this book?
-Who should read this book?
-What this book covers?
+- Why this book?
+- Who should read this book?
+- What this book covers?
 
 ### 1. Data Science Landscape
 ### 2. Data Science Roles
