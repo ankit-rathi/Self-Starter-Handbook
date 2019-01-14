@@ -1,7 +1,7 @@
 # Self-Starter-Handbook
 ## Build Your Own Roadmap
 
-### A. WWW
+### A. Why Who What
 - Why this book?
 - Who should read this book?
 - What this book covers?
