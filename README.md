@@ -3,8 +3,8 @@
 
 ### A. Why Who What
 - Why this book?
-- Who should read this book?
 - What this book covers?
+- Who this book is for?
 
 ### 1. Data Science Landscape
 ### 2. Data Science Roles
