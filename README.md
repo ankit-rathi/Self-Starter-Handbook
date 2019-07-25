@@ -3,6 +3,13 @@
 
 ### Preface
 
+#### Why this book?
+
+#### What this book covers?
+
+#### Who this book is for?
+
+Please note that this book does not cover Data Science & Artificial Intelligence concepts.
 
 ### 1. Understanding the Big Picture
 
@@ -17,6 +24,8 @@
 #### 1.5 Networking & landing the job
 
 #### 1.6 Making Career Future-Proof	
+
+So rather than waiting for someone or technology to replace your labour, you’ll take a proactive approach to put yourself in a position where potential employers can’t afford to work without you.
 
 #### 1.7 Putting it all together	
 
@@ -38,9 +47,37 @@
 
 #### 3.1 Concepts to Learn	
 
+##### Concepts to add:
+
+Data Handling Skills 
+
+##### Resources to mention:
+
+Maths for Data Science (Linear Algebra & Multivariate Calculus):
+
+https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
+
+https://www.coursera.org/specializations/mathematics-machine-learning
+
+3Blue1Brown Series
+
+Essence of Linear Algebra:
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+Essence of Calculus:
+https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
+Probability & Statistics: 
+
+https://medium.com/@rathi.ankit/probability-statistics-for-data-science-series-83b94353ca48
+
+https://www.khanacademy.org/math/statistics-probability
+
+
 #### 3.2 Process to Follow
 
 #### 3.3 Tools to Master
+
 
 ### 4 Utilizing the Resources	
 
