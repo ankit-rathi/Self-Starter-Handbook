@@ -53,13 +53,13 @@ Data Handling Skills
 
 ##### Resources to mention:
 
-Maths for Data Science (Linear Algebra & Multivariate Calculus):
+###### Maths for Data Science (Linear Algebra & Multivariate Calculus):
 
 https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
 https://www.coursera.org/specializations/mathematics-machine-learning
 
-3Blue1Brown Series
+###### 3Blue1Brown Series:
 
 Essence of Linear Algebra:
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -67,7 +67,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 Essence of Calculus:
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
-Probability & Statistics: 
+###### Probability & Statistics: 
 
 https://medium.com/@rathi.ankit/probability-statistics-for-data-science-series-83b94353ca48
 
